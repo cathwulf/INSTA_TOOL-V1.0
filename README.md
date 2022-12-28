@@ -1,7 +1,7 @@
 # INSTA_TOOL-V1.0
 Full Automated Script For Instagram Brute Force
 
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/cathwulf/INSTA_TOOL-V1.0)![GitHub all releases](https://img.shields.io/github/downloads/cathwulf/INSTA_TOOL-V1.0/total?style=social)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/cathwulf/INSTA_TOOL-V1.0)     ![GitHub all releases](https://img.shields.io/github/downloads/cathwulf/INSTA_TOOL-V1.0/total?style=social)
 
 If you have little to no knowledge in programming: Read this Guide for beginners
 
